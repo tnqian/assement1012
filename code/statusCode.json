@@ -1,0 +1,16 @@
+{
+	"error": {
+		"502": "{attribute} required field is empty.",
+		"503": "Invalid action.",
+		"504": "Invalid Auth Header.",
+		"505": "Your request was made with invalid credentials.",
+		"506": "Invalid ApiKey.",
+		"1501": "Invalid Record.",
+		"1502": "Create fail.",
+		"1503": "Update fail.",
+		"1504": "Delete fail.",
+		"1505": "This Username already existed.",
+		"1506": "This Email already existed.",
+		"1507": "Invalid Email format"
+	}
+}
